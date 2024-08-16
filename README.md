@@ -1,1 +1,2 @@
 # Dmart-Website
+The Dmart E-commerce Website is an online retail platform designed to provide customers with a seamless and convenient shopping experience. The website aims to offer a wide range of products, including groceries, household items, electronics, clothing, and more. The project focuses on building a user-friendly, responsive, and secure website that allows users to browse, search, and purchase products online with ease.
